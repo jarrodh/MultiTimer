@@ -1,0 +1,9 @@
+﻿.editTimer section[role=main] {
+    margin-left: 120px;
+}
+
+.editTimer p {
+    margin-left: 120px;
+}
+
+.win-timepicker-period { display:none; }

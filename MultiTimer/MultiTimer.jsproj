@@ -59,6 +59,9 @@
     <Content Include="js\data.js" />
     <Content Include="js\default.js" />
     <Content Include="js\navigator.js" />
+    <Content Include="pages\editTimer\editTimer.css" />
+    <Content Include="pages\editTimer\editTimer.html" />
+    <Content Include="pages\editTimer\editTimer.js" />
     <Content Include="pages\home\home.css" />
     <Content Include="pages\home\home.html" />
     <Content Include="pages\home\home.js" />
